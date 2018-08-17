@@ -1,4 +1,4 @@
-# dva-umi实例项目
+# umi dva 示例项目
 原blog链接：[umi + dva，完成用户管理的 CURD 应用](https://github.com/sorrycc/blog/issues/62)
 
 # To start
